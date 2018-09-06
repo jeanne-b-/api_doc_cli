@@ -1,0 +1,10 @@
+source 'https://rubygems.org'
+
+gem 'tty-prompt'
+gem 'command_line_reporter', github: 'wbailey/command_line_reporter', branch: 'master'
+gem 'http'
+gem 'json'
+gem 'pry'
+gem 'colorize'
+gem 'ruby-terminfo'
+gem 'awesome_print'
